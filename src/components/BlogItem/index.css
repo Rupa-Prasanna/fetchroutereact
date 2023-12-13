@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.blog-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(110, 91, 56);
+  border-radius: 40px;
+}
+img {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.image {
+  width: 50vh;
+  height: 50vh;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
